@@ -1,0 +1,10 @@
+id=rootguard
+name=RootGuard Zygisk Module
+version=v1.0.0
+versionCode=100
+author=Lee Muriithi Kingori
+description=Advanced root hiding via Zygisk injection for RootGuard initiative
+support=https://github.com/lee-muriithi-kingori/RootGuard-Zygisk-Module
+minMagisk=24100
+minApi=26
+needRamdisk=false
